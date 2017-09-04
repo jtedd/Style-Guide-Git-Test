@@ -50,28 +50,32 @@
       "id": "DD91C9F2-7137-4481-B56D-FDF6FAB10DF4"
     },
     {
+      "class": "group",
+      "id": "FB6685AA-20AA-4CFE-A6EB-6A48EB013878"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A392343-1E43-4F1D-90D4-00F31D209021"
+    },
+    {
+      "class": "group",
+      "id": "3F281597-73C7-4DF2-A0CB-22180BD6466F"
+    },
+    {
+      "class": "group",
+      "id": "08E0C509-FD9E-406F-9CDC-72FE097F16E8"
+    },
+    {
+      "class": "text",
+      "id": "3F79B45D-4810-4149-B046-AC359FF735ED"
+    },
+    {
       "class": "text",
       "id": "F28EAC9A-EF11-49B4-8F05-82442BD7C849"
     },
     {
-      "class": "text",
-      "id": "D44139BB-A75E-437F-B99C-D7AE17ED8732"
-    },
-    {
-      "class": "text",
-      "id": "138DE443-B0F3-40CB-9B3F-50B0C2A7704D"
-    },
-    {
       "class": "shapeGroup",
-      "id": "56081809-1228-4C25-A543-F58C1F0A3A76"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BA0AA486-AC63-482E-A1E0-8454ECC605A0"
-    },
-    {
-      "class": "text",
-      "id": "9FC6C2A9-1149-466C-89BA-0900A31B13CC"
+      "id": "294E0042-D684-44CE-843A-3646E01D663D"
     }
   ],
   "name": "iPhone 7 Plus Copy",

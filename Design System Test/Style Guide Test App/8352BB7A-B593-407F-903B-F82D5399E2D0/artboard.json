@@ -50,28 +50,28 @@
       "id": "F4F755B4-ADDC-4027-B6FE-383AF20FDEA3"
     },
     {
+      "class": "group",
+      "id": "EA00398F-336B-4EAC-90D2-58D505E6BF91"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F41791C-7622-497F-B07C-A28111B4438D"
+    },
+    {
+      "class": "text",
+      "id": "7DB60D25-2E1A-4DD9-ADAE-F669F2C53DCC"
+    },
+    {
       "class": "text",
       "id": "A6A68ECE-5CD9-4EB2-A381-233660FA8C21"
-    },
-    {
-      "class": "text",
-      "id": "BD8EAEEB-7A89-4E6D-992C-B0F113DDA69B"
-    },
-    {
-      "class": "text",
-      "id": "77292B71-DF69-4EC0-86CC-6322DB284161"
     },
     {
       "class": "shapeGroup",
       "id": "0851736C-E283-466B-86B1-ADDFE33B4087"
     },
     {
-      "class": "shapeGroup",
-      "id": "095E6A84-D441-41AC-BAAF-8F2E5A34A673"
-    },
-    {
-      "class": "text",
-      "id": "F71220F3-1F54-4CBD-8932-4AB9B278986C"
+      "class": "group",
+      "id": "FBE4F960-BFAA-45C6-B020-1FBB6F598044"
     }
   ],
   "name": "iPhone 7 Plus",
